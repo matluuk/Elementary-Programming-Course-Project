@@ -2,6 +2,13 @@
 Course projet for elementary programming. There were several options where to choose from. 
 I coose to make a game called A Wee Bit Miffed Ducks.
 
+## Files I have made.
+main.py
+all files in kentat folder
+images ritsa.png and tausta.png
+some modifications to haravasto2.
+
+
 
 # Assignment for the cource project
 
